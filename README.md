@@ -73,4 +73,4 @@ yarn start # ou: npm run start
 > Assurez-vous que le frontend et le backend sont en cours d'exécution.
 
 
-# Si vous rencontrez des problèmes lors de l'installation, contactez-moi 
+## Si vous rencontrez des problèmes lors de l'installation, contactez-moi 
