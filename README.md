@@ -16,15 +16,16 @@ git clone https://github.com/sushil-kamble/django-react-auth.git .
 
 ### 1. Accédez au dossier backend et exécutez les commandes suivantes:
 
-`cd backend/`
+`cd Test_technique_imperiatec_react_django/backend`
 
 ### 2. Créer et activer l'environnement virtuel
 
 ```bash
 python -m venv venv
 
-venv\Scripts\activate
+source venv/bin/activate
 ```
+>si la commande python ne marche pas essayer: python3 -m venv venv
 
 ### 3. Installer les packages requis
 
@@ -36,8 +37,11 @@ pip install -r requirements.txt
 
 ```bash
 python manage.py migrate
+
 python manage.py runserver
 ```
+
+# Ouvrez un nouveau terminal (ne pas fermer le premier terminal)
 
 ## Frontend
 
@@ -50,8 +54,7 @@ python manage.py runserver
 yarn
 ```
 
-### Si vous n'avez pas de yarn installé
-
+### ! Si vous n'avez pas de yarn installé !
 ```bash
 npm i
 ```
