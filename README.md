@@ -14,9 +14,9 @@ git clone https://github.com/sushil-kamble/django-react-auth.git .
 
 ## Backend
 
-### 1. Accédez au dossier backend et exécutez les commandes suivantes:
+### 1. Accédez au dossier backend :
 
-`cd Test_technique_imperiatec_react_django/backend`
+`cd backend`
 
 ### 2. Créer et activer l'environnement virtuel
 
